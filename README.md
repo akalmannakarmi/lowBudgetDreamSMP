@@ -1,36 +1,36 @@
-#Dream SMP Data Pack
+# Dream SMP Data Pack
 Has 4 Types of Powers:
 
-###1) Advancement based
+### 1) Advancement based
 These Powers are achived when certain requirements are met. It has its own commands to run the powers. Anyone can achive this powers when they meet the requirements. There is no limit to how many Achivement powers one player can have.
 - Obtained when a requriement is satisfied
 - One player can have many of these powers
 - Each power has its own commands
 
-###2) Pasive Powers
+### 2) Pasive Powers
 These Powers are set for separate characters. A player can only have 1 Pasive power. Pasive powers strongly represent the characters. These powers do not need to be triggered with commands so it will run every time. Pasive powers can be toggled ON and OFF by /trigger togglePasive.
 - Separate for different character
 - Can not be achived
 - No cooldown
 - Toggle the power with '/trigger togglePasive'
 
-###3) Manual Powers
+### 3) Manual Powers
 These Powers are pre set for characters. A player can have only 3 Manual Powers. Manual powers are small and resemble the characters. These Powers are divided in 3 Manual Power 1 , Manual Power 2 and Manual Power 3.Manual Power 1 has 30 mins cooldown and weak, Manual Power 2 has 1 hr cooldown and is stronger and Manual Power 3 has 2hrs cooldown and is Strongest. These Powers have to be trigger so for Manual Power 1 '/trigger pow1' , Manual Power 2 '/trigger pow2' and Manual Power 3 '/trigger pow3'.
 - Can not be achived
 - Cooldown: pow1 = 30mins pow2 = 1hr pow3 = 2hrs- Triggered: pow1 = '/trigger pow1'pow2 = '/trigger pow2'pow3 = '/trigger pow2'
 
-###4) Logical PowersThese Powers do not server any technical purpose. It only represents the character so it helps when roleplaying.
+### 4) Logical PowersThese Powers do not server any technical purpose. It only represents the character so it helps when roleplaying.
 
-#How to Use???
-###Method 1
+# How to Use???
+### Method 1
 Give the user the tag same as the character they chose
 Eg: player125 chose to be dream/tag player125 add Dream
 
-###Method 2
+### Method 2
 Replace the username of the player who pick the character in chartag.mcfunctionlocated data\smp\functions\others
 
 ## Advancement Power 
-###Pasive 
+### Pasive 
 * AxeMaster (axeDmg)
 * BlockMaster (silkHands)
 * BloodThirst (blood)
@@ -46,7 +46,7 @@ Replace the username of the player who pick the character in chartag.mcfunctionl
 * Naked (naked)
 
 ## Manual
-###T1
+### T1
 * Apollo (jump)
 * BeeKeeper (bees)
 * BestFriend (dog)
@@ -101,7 +101,7 @@ Replace the username of the player who pick the character in chartag.mcfunctionl
 * (ushield) Gives an Unbreakable Shield {Callahan}
 * (naked) When not wearing armor gives equal armor as iron armor{Skeppy}
 
-##Logical Powers 
+## Logical Powers 
 * Main Character {Ranboo}
 * Anarchy {Technoblade}
 * King {TheEret}
