@@ -1,0 +1,12 @@
+[
+    {
+      "condition": "minecraft:block_state_property",
+      "block": "minecraft:end_portal_frame",
+      "properties": {}
+    },
+    {
+      "condition": "minecraft:block_state_property",
+      "block": "minecraft:bedrock",
+      "properties": {}
+    }
+]

@@ -1,0 +1,2 @@
+tag @s add RedstoneMaster
+tellraw @s [{"text": "Achivement : Redstone Master \n","bold": true,"color": "green"},{"text": "Reward:\n /trigger redstone \n Gives redstones","bold": false,"color": "gold"}]

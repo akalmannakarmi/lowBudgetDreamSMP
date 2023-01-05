@@ -1,0 +1,1 @@
+give @s fox_spawn_egg 1

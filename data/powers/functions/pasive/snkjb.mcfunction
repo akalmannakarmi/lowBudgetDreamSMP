@@ -1,0 +1,1 @@
+execute as @s if predicate powers:sneaking run effect give @s jump_boost 2 1 true

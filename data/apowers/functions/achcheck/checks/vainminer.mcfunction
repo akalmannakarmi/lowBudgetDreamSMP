@@ -1,0 +1,1 @@
+execute as @s[tag=!Vain,scores={rvainminerC=500..,rvainminerI=500..,rvainminerG=200..,rvainminerE=10..,rvainminerD=50..}] run function apowers:achcheck/achived/vainminer

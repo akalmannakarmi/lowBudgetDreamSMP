@@ -1,0 +1,1 @@
+execute as @s[tag=!FutureIsHere,scores={rquartz=1000..}] run function apowers:achcheck/achived/quartz

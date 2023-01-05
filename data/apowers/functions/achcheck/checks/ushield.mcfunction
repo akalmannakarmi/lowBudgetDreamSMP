@@ -1,0 +1,1 @@
+execute as @s[tag=!Vibranium,scores={rushield=25..}] run function apowers:achcheck/achived/ushield

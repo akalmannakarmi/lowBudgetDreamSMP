@@ -1,0 +1,1 @@
+execute as @s[tag=!Dedication,scores={robby=1000..}] run function apowers:achcheck/achived/obby

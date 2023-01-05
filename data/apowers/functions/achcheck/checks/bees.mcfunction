@@ -1,0 +1,1 @@
+execute as @s[scores={rbees=10..},tag=!BeeKeeper] run function apowers:achcheck/achived/bees

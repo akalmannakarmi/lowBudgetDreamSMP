@@ -1,0 +1,1 @@
+give @s nether_wart 32

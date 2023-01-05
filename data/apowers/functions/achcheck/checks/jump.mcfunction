@@ -1,0 +1,1 @@
+execute as @s[tag=!Apollo,scores={rjump=10000..}] run function apowers:achcheck/achived/jump

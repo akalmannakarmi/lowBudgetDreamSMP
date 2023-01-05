@@ -1,0 +1,52 @@
+scoreboard players operation @s coLotto = T2 aPowCooldowns
+
+execute as @s if score 50 random matches 1 run give @s diamond 3
+execute as @s if score 50 random matches 2 run give @s emerald 16
+execute as @s if score 50 random matches 3 run give @s totem_of_undying 1
+execute as @s if score 50 random matches 4 run give @s iron_ingot 16
+execute as @s if score 50 random matches 5 run give @s gold_ingot 16
+execute as @s if score 50 random matches 6 run give @s netherite_ingot 1
+execute as @s if score 50 random matches 7 run give @s quartz 32
+execute as @s if score 50 random matches 8 run give @s dirt 32
+execute as @s if score 50 random matches 9 run give @s stone 32
+execute as @s if score 50 random matches 10 run give @s oak_log 16
+execute as @s if score 50 random matches 11 run give @s birch_log 16
+execute as @s if score 50 random matches 12 run give @s spruce_log 16
+execute as @s if score 50 random matches 13 run give @s jungle_log 16
+execute as @s if score 50 random matches 14 run give @s dark_oak_log 16
+execute as @s if score 50 random matches 15 run give @s acacia_log 16
+execute as @s if score 50 random matches 16 run give @s warped_stem 16
+execute as @s if score 50 random matches 17 run give @s crimson_stem 16
+execute as @s if score 50 random matches 18 run give @s redstone 64
+execute as @s if score 50 random matches 19 run give @s stick 64
+execute as @s if score 50 random matches 20 run give @s bamboo 64
+execute as @s if score 50 random matches 21 run give @s water_bucket
+execute as @s if score 50 random matches 22 run give @s lava_bucket
+execute as @s if score 50 random matches 23 run give @s carrot 16
+execute as @s if score 50 random matches 24 run give @s wheat 16
+execute as @s if score 50 random matches 25 run give @s melon 16
+execute as @s if score 50 random matches 26 run give @s potato 16
+execute as @s if score 50 random matches 27 run give @s pumpkin 16
+execute as @s if score 50 random matches 28 run give @s shulker_box 1
+execute as @s if score 50 random matches 29 run give @s light_gray_stained_glass_pane 1
+execute as @s if score 50 random matches 30 run give @s enchanted_golden_apple 1
+execute as @s if score 50 random matches 31 run give @s end_stone 16
+execute as @s if score 50 random matches 32 run give @s netherrack 32
+execute as @s if score 50 random matches 33 run give @s coal 16
+execute as @s if score 50 random matches 34 run give @s apple 16
+execute as @s if score 50 random matches 35 run give @s golden_apple 1
+execute as @s if score 50 random matches 36 run give @s milk_bucket 1
+execute as @s if score 50 random matches 37 run give @s bread 8
+execute as @s if score 50 random matches 38 run give @s cooked_beef 8
+execute as @s if score 50 random matches 39 run give @s pufferfish 8
+execute as @s if score 50 random matches 40 run give @s cod 8
+execute as @s if score 50 random matches 41 run give @s salmon 8
+execute as @s if score 50 random matches 42 run give @s glass 16
+execute as @s if score 50 random matches 43 run give @s terracotta 16
+execute as @s if score 50 random matches 44 run give @s gravel 16
+execute as @s if score 50 random matches 45 run give @s sand 16
+execute as @s if score 50 random matches 46 run give @s clay 16
+execute as @s if score 50 random matches 47 run give @s obsidian 4
+execute as @s if score 50 random matches 48 run give @s ender_chest 1
+execute as @s if score 50 random matches 49 run give @s string 16
+execute as @s if score 50 random matches 50 run give @s poisonous_potato 1

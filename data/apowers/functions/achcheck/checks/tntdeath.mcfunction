@@ -1,0 +1,1 @@
+execute as @s[tag=!ItsAnArt,scores={rtntdeath=50..}] run function apowers:achcheck/achived/tntdeath

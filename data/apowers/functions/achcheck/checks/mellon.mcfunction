@@ -1,0 +1,1 @@
+execute as @s[tag=!Mellons,scores={rmellon=1000..}] run function apowers:achcheck/achived/mellon

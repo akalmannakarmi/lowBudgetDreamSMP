@@ -1,0 +1,1 @@
+execute as @s[tag=!Logger,scores={rtreefallerA=200..,rtreefallerB=200..,rtreefallerC=200..,rtreefallerDO=200..,rtreefallerJ=200..,rtreefallerO=200..,rtreefallerS=200..,rtreefallerW=200..}] run function apowers:achcheck/achived/treefaller

@@ -1,0 +1,1 @@
+execute as @s[tag=!GoldDigger,scores={rgold=1000..}] run function apowers:achcheck/achived/gold

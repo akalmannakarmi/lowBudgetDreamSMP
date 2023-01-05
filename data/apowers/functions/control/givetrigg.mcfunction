@@ -1,0 +1,49 @@
+# Pasive
+execute as @a[tag=AxeMaster] run scoreboard players enable @s togAxeMaster 
+execute as @a[tag=BlockMaster] run scoreboard players enable @s togBlockMaster 
+execute as @a[tag=BloodThirst] run scoreboard players enable @s togBloodThirst 
+execute as @a[tag=Fall] run scoreboard players enable @s togFall 
+execute as @a[tag=HolyGrace] run scoreboard players enable @s togHolyGrace 
+execute as @a[tag=ItsAnArt] run scoreboard players enable @s togItsAnArt 
+execute as @a[tag=Logger] run scoreboard players enable @s togLogger 
+execute as @a[tag=Naked] run scoreboard players enable @s togNaked
+execute as @a[tag=Smeltor] run scoreboard players enable @s togSmeltor 
+execute as @a[tag=SwordMaster] run scoreboard players enable @s togSwordMaster 
+execute as @a[tag=Vain] run scoreboard players enable @s togVain 
+execute as @a[tag=Vibranium] run scoreboard players enable @s togVibranium 
+execute as @a[tag=WrightBrothers] run scoreboard players enable @s togWrightBros
+
+# T1
+execute as @a[tag=Apollo] unless score @s coJump matches 1.. run scoreboard players enable @s Jump 
+execute as @a[tag=BeeKeeper] unless score @s coBees matches 1.. run scoreboard players enable @s Bees 
+execute as @a[tag=BestFriend] unless score @s coDog matches 1.. run scoreboard players enable @s Dog 
+execute as @a[tag=Bunny] unless score @s coCarrots matches 1.. run scoreboard players enable @s Carrots 
+execute as @a[tag=Concrete] unless score @s coConc matches 1.. run scoreboard players enable @s Conc 
+execute as @a[tag=Farmer] unless score @s coWheat matches 1.. run scoreboard players enable @s Wheat 
+execute as @a[tag=Feline] unless score @s coCats matches 1.. run scoreboard players enable @s Cats 
+execute as @a[tag=FindingNemo] unless score @s coDolphin matches 1.. run scoreboard players enable @s Dolphin 
+execute as @a[tag=Fisherman] unless score @s coFish matches 1.. run scoreboard players enable @s Fish 
+execute as @a[tag=Foxy] unless score @s coFox matches 1.. run scoreboard players enable @s Fox 
+execute as @a[tag=FutureIsHere] unless score @s coQuartz matches 1.. run scoreboard players enable @s Quartz 
+execute as @a[tag=Mellons] unless score @s coMellon matches 1.. run scoreboard players enable @s Mellon 
+execute as @a[tag=IsRainbowGay] unless score @s coRanWool matches 1.. run scoreboard players enable @s RanWool 
+execute as @a[tag=RedstoneMaster] unless score @s coRedstone matches 1.. run scoreboard players enable @s Redstone 
+execute as @a[tag=Slimy] unless score @s coSlime matches 1.. run scoreboard players enable @s Slime 
+execute as @a[tag=Stripper] unless score @s coStrip matches 1.. run scoreboard players enable @s Strip 
+execute as @a[tag=Subway] unless score @s coRails matches 1.. run scoreboard players enable @s Rails 
+execute as @a[tag=Turbo] unless score @s coSpeed matches 1.. run scoreboard players enable @s Speed 
+execute as @a[tag=TurtleMaster] unless score @s coScute matches 1.. run scoreboard players enable @s Scute 
+execute as @a[tag=Writer] unless score @s coBook matches 1.. run scoreboard players enable @s Book 
+# T2
+execute as @a[tag=DeadInside] unless score @s coTotem matches 1.. run scoreboard players enable @s Totem 
+execute as @a[tag=Dedication] unless score @s coObby matches 1.. run scoreboard players enable @s Obby 
+execute as @a[tag=DemonSlayer] unless score @s coDeadCalm matches 1.. run scoreboard players enable @s DeadCalm 
+execute as @a[tag=EyesOrBall] unless score @s coPerls matches 1.. run scoreboard players enable @s Perls 
+execute as @a[tag=Foody] unless score @s coFeed matches 1.. run scoreboard players enable @s Feed 
+execute as @a[tag=GoldDigger] unless score @s coGold matches 1.. run scoreboard players enable @s Gold 
+execute as @a[tag=Lazar] unless score @s coLazar matches 1.. run scoreboard players enable @s Lazar 
+execute as @a[tag=Lottery] unless score @s coLotto matches 1.. run scoreboard players enable @s Lotto 
+execute as @a[tag=LuckyDuck] unless score @s coBless matches 1.. run scoreboard players enable @s Bless 
+execute as @a[tag=Minions] unless score @s coPets matches 1.. run scoreboard players enable @s Pets 
+execute as @a[tag=TnTMaster] unless score @s coCannon matches 1.. run scoreboard players enable @s Cannon 
+execute as @a[tag=TpWut] unless score @s coZooom matches 1.. run scoreboard players enable @s Zooom 

@@ -1,0 +1,1 @@
+tellraw @s {"text": "This Power is not set If you want to Dm Staff", "color": "red"}

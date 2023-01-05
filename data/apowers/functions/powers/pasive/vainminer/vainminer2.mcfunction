@@ -1,0 +1,12 @@
+execute as @s[scores={vainminerC=1..}] at @e[type=item,nbt={Item:{id:"minecraft:coal_ore"}},sort=nearest,limit=1] run function apowers:powers/pasive/vainminer/coal
+execute as @s[scores={vainminerI=1..}] at @e[type=item,nbt={Item:{id:"minecraft:iron_ore"}},sort=nearest,limit=1] run function apowers:powers/pasive/vainminer/iron
+execute as @s[scores={vainminerG=1..}] at @e[type=item,nbt={Item:{id:"minecraft:gold_ore"}},sort=nearest,limit=1] run function apowers:powers/pasive/vainminer/gold
+execute as @s[scores={vainminerNG=1..}] at @e[type=item,nbt={Item:{id:"minecraft:nether_gold_ore"}},sort=nearest,limit=1] run function apowers:powers/pasive/vainminer/ngold
+execute as @s[scores={vainminerNG=1..}] at @e[type=item,nbt={Item:{id:"minecraft:gold_nugget"}},sort=nearest,limit=1] run function apowers:powers/pasive/vainminer/ngold
+execute as @s[scores={vainminerNQ=1..}] at @e[type=item,nbt={Item:{id:"minecraft:nether_quartz_ore"}},sort=nearest,limit=1] run function apowers:powers/pasive/vainminer/nquartz
+execute as @s[scores={vainminerNQ=1..}] at @e[type=item,nbt={Item:{id:"minecraft:quartz"}},sort=nearest,limit=1] run function apowers:powers/pasive/vainminer/nquartz
+execute as @s[scores={vainminerL=1..}] at @e[type=item,nbt={Item:{id:"minecraft:lapis_ore"}},sort=nearest,limit=1] run function apowers:powers/pasive/vainminer/lapis
+execute as @s[scores={vainminerR=1..}] at @e[type=item,nbt={Item:{id:"minecraft:redstone_ore"}},sort=nearest,limit=1] run function apowers:powers/pasive/vainminer/redstone
+execute as @s[scores={vainminerE=1..}] at @e[type=item,nbt={Item:{id:"minecraft:emerald_ore"}},sort=nearest,limit=1] run function apowers:powers/pasive/vainminer/emerald
+execute as @s[scores={vainminerD=1..}] at @e[type=item,nbt={Item:{id:"minecraft:diamond_ore"}},sort=nearest,limit=1] run function apowers:powers/pasive/vainminer/diamond
+execute as @s[scores={vainminerA=1..}] at @e[type=item,nbt={Item:{id:"minecraft:ancient_debris"}},sort=nearest,limit=1] run function apowers:powers/pasive/vainminer/ancient

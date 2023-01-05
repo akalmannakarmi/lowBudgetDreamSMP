@@ -1,0 +1,1 @@
+execute as @s[tag=!EyesOrBall,scores={rperls=200..}] run function apowers:achcheck/achived/perls

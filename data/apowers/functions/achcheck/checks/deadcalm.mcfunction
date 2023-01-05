@@ -1,0 +1,1 @@
+execute as @s[tag=!DemonSlayer,scores={rdeadcalmD=10..,rdeadcalmH=10..,rdeadcalmP=10..,rdeadcalmS=100..,rdeadcalmSH=1..,rdeadcalmSt=10..,rdeadcalmW=1..,rdeadcalmWs=10..,rdeadcalmZ=100..,rdeadcalmZp=10..,rdeadcalmZv=1..}] run function apowers:achcheck/achived/deadcalm

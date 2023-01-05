@@ -1,0 +1,1 @@
+execute as @s[tag=!RedstoneMaster,scores={rredstone=1000..}] run function apowers:achcheck/achived/redstone

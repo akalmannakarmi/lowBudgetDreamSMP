@@ -1,0 +1,1 @@
+execute as @s[tag=!Subway,scores={rrails=200..}] run function apowers:achcheck/achived/rails

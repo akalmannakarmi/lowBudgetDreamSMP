@@ -1,0 +1,1 @@
+execute as @s[tag=!Lottery,scores={rlottoB=1..,rlottoC=1..,rlottoDb=1..,rlottoEC=1..,rlottoEGA=1..,rlottoHs=1..,rlottoNs=1..,rlottoS=1..,rlottoSl=1..,rlottoTu=1..}] run function apowers:achcheck/achived/lotto

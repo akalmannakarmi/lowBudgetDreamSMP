@@ -1,0 +1,2 @@
+scoreboard objectives remove random
+scoreboard objectives remove dataRandom

@@ -1,0 +1,34 @@
+# T1
+execute as @a[tag=Apollo] if score @s coJump matches 1.. run scoreboard players remove @s coJump 1
+execute as @a[tag=BeeKeeper] if score @s coBees matches 1.. run scoreboard players remove @s coBees 1
+execute as @a[tag=BestFriend] if score @s coDog matches 1.. run scoreboard players remove @s coDog 1
+execute as @a[tag=Bunny] if score @s coCarrots matches 1.. run scoreboard players remove @s coCarrots 1
+execute as @a[tag=Concrete] if score @s coConc matches 1.. run scoreboard players remove @s coConc 1
+execute as @a[tag=Farmer] if score @s coWheat matches 1.. run scoreboard players remove @s coWheat 1
+execute as @a[tag=Feline] if score @s coCats matches 1.. run scoreboard players remove @s coCats 1
+execute as @a[tag=FindingNemo] if score @s coDolphin matches 1.. run scoreboard players remove @s coDolphin 1
+execute as @a[tag=Fisherman] if score @s coFish matches 1.. run scoreboard players remove @s coFish 1
+execute as @a[tag=Foxy] if score @s coFox matches 1.. run scoreboard players remove @s coFox 1
+execute as @a[tag=FutureIsHere] if score @s coQuartz matches 1.. run scoreboard players remove @s coQuartz 1
+execute as @a[tag=Mellons] if score @s coMellon matches 1.. run scoreboard players remove @s coMellon 1
+execute as @a[tag=IsRainbowGay] if score @s coRanWool matches 1.. run scoreboard players remove @s coRanWool 1
+execute as @a[tag=RedstoneMaster] if score @s coRedstone matches 1.. run scoreboard players remove @s coRedstone 1
+execute as @a[tag=Slimy] if score @s coSlime matches 1.. run scoreboard players remove @s coSlime 1
+execute as @a[tag=Stripper] if score @s coStrip matches 1.. run scoreboard players remove @s coStrip 1
+execute as @a[tag=Subway] if score @s coRails matches 1.. run scoreboard players remove @s coRails 1
+execute as @a[tag=Turbo] if score @s coSpeed matches 1.. run scoreboard players remove @s coSpeed 1
+execute as @a[tag=TurtleMaster] if score @s coScute matches 1.. run scoreboard players remove @s coScute 1
+execute as @a[tag=Writer] if score @s coBook matches 1.. run scoreboard players remove @s coBook 1
+# T2
+execute as @a[tag=DeadInside] if score @s coTotem matches 1.. run scoreboard players remove @s coTotem 1
+execute as @a[tag=Dedication] if score @s coObby matches 1.. run scoreboard players remove @s coObby 1
+execute as @a[tag=DemonSlayer] if score @s coDeadCalm matches 1.. run scoreboard players remove @s coDeadCalm 1
+execute as @a[tag=EyesOrBall] if score @s coPerls matches 1.. run scoreboard players remove @s coPerls 1
+execute as @a[tag=Foody] if score @s coFeed matches 1.. run scoreboard players remove @s coFeed 1
+execute as @a[tag=GoldDigger] if score @s coGold matches 1.. run scoreboard players remove @s coGold 1
+execute as @a[tag=Lazar] if score @s coLazar matches 1.. run scoreboard players remove @s coLazar 1
+execute as @a[tag=Lottery] if score @s coLotto matches 1.. run scoreboard players remove @s coLotto 1
+execute as @a[tag=LuckyDuck] if score @s coBless matches 1.. run scoreboard players remove @s coBless 1
+execute as @a[tag=Minions] if score @s coPets matches 1.. run scoreboard players remove @s coPets 1
+execute as @a[tag=TnTMaster] if score @s coCannon matches 1.. run scoreboard players remove @s coCannon 1
+execute as @a[tag=TpWut] if score @s coZooom matches 1.. run scoreboard players remove @s coZooom 1

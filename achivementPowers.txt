@@ -1,0 +1,424 @@
+Pasive:{
+    AxeMaster:{
+        requriement:{
+            deal 100000 dmg with axe
+        }
+        reward:{
+            axeDmg
+            give +1 Axe damage
+        }
+    },
+    BlockMaster:{
+        requriement:{
+            Collect every obtainable blocks
+        }
+        reward:{
+            silkHands
+            can silk touch any block with hands includes other blocks
+        }
+    },
+    BloodThirst:{
+        requriement:{
+            kill 200 of each common mobs
+            common mobs are cow,sheep,chicken,pig,zombi,skeleton,creeper and spider
+        }
+        reward:{
+            blood
+            gives Strength on kill 
+        }
+    },
+    Fall:{
+        requriement:{
+            fall 500 blocks or 50000 cm
+        }
+        reward:{
+            slowFall
+            gives slow falling when falling
+        }
+    },
+    HolyGrace:{
+        requriement:{
+            bred panda, turtle and Kill 100 zombie,skeleton
+        }
+        reward:{
+            holyAura
+            dmg undead mobs near by
+        }
+    },
+    ItsAnArt:{
+        requriement:{
+            Die from explosion 50 times
+        }
+        reward:{
+            tntdeath
+            spawn tnt when killed by player
+        }
+    },
+    Logger:{
+        requriement:{
+            cut 500 of each logs
+        }
+        reward:{
+            treeFaller
+            cuts and entire tree
+        }
+    },
+    Naked:{
+        requriement:{
+            wear no armor for 3hrs
+        }
+        reward:{
+            naked
+            gives full iron protection when not wearin armor
+        }
+    },
+    Smeltor:{
+        requriement:{
+            mine and smelt 1000 iron ore 
+        }
+        reward:{
+            drops iron ingot when mine iron ore
+            and gold for gold ore
+        }
+    },
+    SwordMaster:{
+        requriement:{
+            deal 100000 dmg with sword
+        }
+        reward:{
+            swddmg 
+            does +1 dmg with sword
+        }
+    },
+    Vain:{
+        requriement:{
+            mine 5000 coal ore 1000 iron ore 500 gold ore
+            50 emerald ore 200 diamond ore
+        }
+        reward:{
+            vainMiner
+            vain mines ores
+        }
+    },
+    Vibranium:{
+        requriement:{
+            Break 100 Shields
+        }
+        reward:{
+            uShield
+            gives Unbreakable Shield
+        }
+    },
+    WrightBrothers:{
+        requriement:{
+            levitation for 10 mins total 
+        }
+        reward:{
+            flight
+            gives Unbreakable Elytra
+        }
+    }
+}
+ManualT1:{
+    Apollo:{
+        requriement:{
+            Jump 10,000 times
+        }
+        reward:{
+            /trigger jump
+            gives jumpboost 5 for 30sec
+        }
+    },
+    BeeKeeper:{
+        requriement:{
+            craft 10 bee nest
+        }
+        reward:{
+            /trigger bees
+            gives bee spawn egg
+        }
+    },
+    BestFriend:{
+        requriement:{
+            breed dogs
+        }
+        reward:{
+            /trigger dog
+            gives wolf spawn egg
+        }
+    },
+    Bunny:{
+        requriement:{
+            pickup 1000 carrots
+        }
+        reward:{
+            /trigger carrots
+            gives golden carrots
+        }
+    },
+    Concrete:{
+        requriement:{
+            craft 500 concrete 
+        }
+        reward:{
+            /trigger conc
+            gives random concrete
+        }
+    },
+    Farmer:{
+        requriement:{
+            harvest 1000 wheat
+        }
+        reward:{
+            /trigger wheat
+            gives wheat
+        }
+    },
+    Feline:{
+        requriement:{
+            breed 10 cats
+        }
+        reward:{
+            /trigger cats
+            gives cats spawn egg
+        }
+    },
+    FindingNemo:{
+        requriement:{
+            travel by swiming 1,000,000 cm
+        }
+        reward:{
+            /trigger dolphin
+            spawn dolphin
+        }
+    },
+    Fisherman:{
+        requriement:{
+            use all bucket of fish
+        }
+        reward:{
+            /trigger fish
+            gives fish
+        }
+    },
+    Foxy:{
+        requriement:{
+            breed 10 fox
+        }
+        reward:{
+            /trigger fox
+            gives fox spawn egg
+        }
+    },
+    FutureIsHere:{
+        requriement:{
+            mine 1000 quartz
+        }
+        reward:{
+            /trigger quartz
+            give quartz
+        }
+    },
+    Mellons:{
+        requriement:{
+            mine 1000 mellons
+        }
+        reward:{
+            /trigger mellon
+            give mellons
+        }
+    },
+    IsRainbowGay:{
+        requriement:{
+            craft every color wool
+        }
+        reward:{
+            /trigger ranWool
+            give Random wool
+        }
+    },
+    RedstoneMaster:{
+        requriement:{
+            mine 1000 redstone ore
+        }
+        reward:{
+            /trigger redstone
+            gives redstone
+        }
+    },
+    Slimy:{
+        requriement:{
+            kill 1000 slime
+        }
+        reward:{
+            /trigger slime
+            give slime
+        }
+    },
+    Stripper:{
+        requriement:{
+            mine 10,000 stone  
+        }
+        reward:{
+            /trigger strip
+            strip mines
+        }
+    },
+    Subway:{
+        requriement:{
+            craft 200 rails
+        }
+        reward:{
+            /trigger rails
+            give rails
+        }
+    },
+    Turbo:{
+        requriement:{
+            travel 5,000,000 cm on foot or 50,000 blocks
+        }
+        reward:{
+            /trigger speed
+            gives speed 5 for 30sec
+        }
+    },
+    TurtleMaster:{
+        requriement:{
+            breed 10 turtle
+        }
+        reward:{
+            /trigger scute
+            give scute
+        }
+    },
+    Writer:{
+        requriement:{
+            craft 200 books
+        }
+        reward:{
+            /trigger book
+            give books
+        }
+    }
+}
+ManualT2:{
+    DeadInside:{
+        requriement:{
+            die 100 times
+        }
+        reward:{
+            /trigger life
+            gives totems
+        }
+    },
+    Dedication:{
+        requriement:{
+            mine 1000 Obsidian
+        }
+        reward:{
+            /trigger obby
+            gives Obsidian
+        }
+    },
+    DemonSlayer:{
+        requriement:{
+            10 drowned,
+            10 husk,
+            10 phantom,
+            100 skeleton,
+            1 skeleton_horse,
+            10 stray,
+            1 wither,
+            10 wither_skeleton,
+            100 zombie,
+            1 zombie_villager,
+            10 zombified_piglin
+        }
+        reward:{
+            /trigger deadCalm
+            kill undead mobs nearby
+        }
+    },
+    EyesOrBall:{
+        requriement:{
+            Kill 200 enderman
+        }
+        reward:{
+            /trigger obby
+            gives Obsidian
+        }
+    },
+    Foody:{
+        requriement:{
+            Eat all foods
+        }
+        reward:{
+            /trigger feed
+            feeds you
+        }
+    },
+    GoldDigger:{
+        requriement:{
+            mine 1000 gold ore
+        }
+        reward:{
+            /trigger gold
+            gives gold
+        }
+    },
+    Lazar:{
+        requriement:{
+            use bow 1000 times
+        }
+        reward:{
+            /trigger lazar
+            shoots arrows all around
+        }
+    },
+    Lottery:{
+        requriement:{
+            pickup notch apple, sponge, dragon_breath, sea_lantern, nether_star,
+             totem of undying, heart_of_the_sea, conduit, end_crystal, beacon
+        }
+        reward:{
+            /trigger lotto
+            give random items
+        }
+    },
+    LuckyDuck:{
+        requriement:{
+            be on 1 hp for 10 mins
+        }
+        reward:{
+            /trigger bless
+            gives blessings
+        }
+    },
+    Minions:{
+        requriement:{
+            bred all bred ables
+        }
+        reward:{
+            /trigger pets
+            give pet spawn egg
+        }
+    },
+    TnTMaster:{
+        requriement:{
+            craft and place 500 tnt
+        }
+        reward:{
+            /trigger cannon
+            place tnt where looking
+        }
+    },
+    TpWut:{
+        requriement:{
+            use 500 enderperls
+        }
+        reward:{
+            /trigger zooom
+            tp where looking
+        }
+    }
+}

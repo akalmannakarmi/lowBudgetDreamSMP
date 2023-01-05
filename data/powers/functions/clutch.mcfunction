@@ -1,0 +1,1 @@
+execute at @s positioned ~ ~ ~ run function powers:others/clutch2

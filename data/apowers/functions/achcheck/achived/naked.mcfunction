@@ -1,0 +1,2 @@
+tag @s add Naked
+tellraw @s [{"text": "Achivement : Naked \n","bold": true,"color": "green"},{"text": "Reward:\n naked \n Gives full iron protection when not wearing armor","bold": false,"color": "gold"}]

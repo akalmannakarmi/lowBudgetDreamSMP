@@ -1,0 +1,494 @@
+awesamdude:{
+    Player:MrBlackRose(Dark Rose#8138)
+    Pasive Powers:{
+        snkres(Gives Resistance 2 when sneaking)
+    }
+    Manual Powers:{
+        pow1 : redstone(Gives random redstone),
+        pow2 : obby(Gives 16 Obsidian),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Prison Warden
+    }
+}
+
+Antfrost :{
+    Player:(Username)
+    Pasive Powers:{
+       snkjb (Gives Jump boost 2 when sneaking)
+    }
+    Manual Powers:{
+        pow1 : fishs(Gives cod/salmon/pufferfish),
+        pow2 : cats(Gives cat spawn egg),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Cat
+    }
+} 
+
+BadBoyHalo :{
+    Player:SamDarp45LOL(SamDarp45#9336) 
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : nwarts(Gives 32 netherwarts),
+        pow2 : regenGives regeneration 2 30s,
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Egpire
+    }
+} 
+
+Callahan:{
+    Player:(Username)
+    Pasive Powers:{
+        ushield(Gives an Unbreakable Shield)
+    }
+    Manual Powers:{
+        pow1 : wheat(Gives 64 wheat),
+        pow2 : Spruce(Gives 64 Spruce Log),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        One With the Forest
+    }
+}
+
+CaptainPuffy:{
+    Player:(Username)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : yellow(Gives 16 Gold_block/yellow_Wool),
+        pow2 : dogcats(Gives cat/dog spawn egg),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Logical Power1
+    }
+}
+
+ConnorEatsPants:{
+    Player:(Username)
+    Pasive Powers:{
+        snkbspeed (Gives Blindness 1 and Speed 4 when sneaking)
+    }
+    Manual Powers:{
+        pow1 : speedpot(Gives a Speed 3 potion),
+        pow2 : feed(Gives saturation),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Sonic
+    }
+}
+
+Dream:{
+    Player:UfusWonton(`Rainx#7028)
+    Pasive Powers:{
+        axedmg (Increase Damage of Axes by 1)
+    }
+    Manual Powers:{
+        pow1 : clutch(Places water where u will land),
+        pow2 : bless(Gives a blessing according to situation),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Owner
+    }
+}
+
+FoolishG:{
+    Player:(Username)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : sstone(Gives 64 sandStone),
+        pow2 : totem(Gives totem),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Logical Power1
+    }
+}
+
+GeorgeNotFound:{
+    Player:(Username)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : scute(Gives scute),
+        pow2 : tmaster(Gives Resistance 4 and slowness 2),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Late
+    }
+}
+
+hannahxxrose:{
+    Player:KARMANJOT99(KAMIE#7717)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : ranwool(Gives a stack of random wool),
+        pow2 : prot(Spawns a Obsidian Bubble column for quick escape),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Women Powers
+    }
+}
+
+HBomb94:{
+    Player:Bekfest3(𝕭𝖊𝖐𝖋𝖊𝖘𝖙3#3171)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : tnt(Gives 8 tnt),
+        pow2 : cannon(Spawns tnt at the block looking at max 50 blocks),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Logical Power1
+    }
+}
+
+ItsAlyssa:{
+    Player:(Username)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : cats(Gives cat spawn egg),
+        pow2 : lotto(Gives random item from list of 50 Items),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Logical Power1
+    }
+}
+
+ItsFundy:{
+    Player:(Username)
+    Pasive Powers:{
+        snkbsj(blind speed and jump when sneaking)
+    }
+    Manual Powers:{
+        pow1 : fox(GIves fox spawn egg),
+        pow2 : troll(Gives other player Blindness slowness and plays creeper noises),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Coder
+    }
+}
+
+JackManifoldTV:{
+    Player:(Username)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : feed(Gives saturation),
+        pow2 : regen(Gives regeneration 2 30s),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Bald
+    }
+}
+
+jschlatt:{
+    Player:bonita(geminice#1643) 
+    Pasive Powers:{
+        Pope(Most undead mobs within 4 block wither)
+    }
+    Manual Powers:{
+        pow1 : wheat(Gives 64 wheat),
+        pow2 : drugs(Gives string/pufferfish),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Logical Power1
+    }
+} 
+
+KarlJacobs:{
+    Player:idk123(LARK#3040)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : lotto(Gives random item from list of 50 Items),
+        pow2 : conc(Gives random concrete powder),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Logical Power1
+    }
+}
+
+LazarCodeLazar:{
+    Player:HaffAAyt(TNCxHaffAA#1747)
+    Pasive Powers:{
+        tntdeath(5 TNT spawn when Killed by Player)
+    }
+    Manual Powers:{
+        pow1 : lazar(Spawns arrows on all 4 direction),
+        pow2 : Mellon(Gives 16 mellon),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Logical Power1
+    }
+}
+
+Nihachu:{
+    Player:AshTDMT(AshTDMT#7988)
+    Pasive Powers:{
+        Mermaid(Gives Conduit, Haste 3 and Regeneration 1 under water)
+    }
+    Manual Powers:{
+        pow1 : heal(Gives Instant Health 4),
+        pow2 : feed(Gives saturation),
+        pow3 : bless(Gives a blessing according to situation),
+    }
+    Logical Powers:{
+        Endangered
+    }
+}
+
+Ph1LzA:{
+    Player:aWendigo(aWendigo#8459)
+    Pasive Powers:{
+        sbelytra (Gives an Unbreakable Elytra)
+    }
+    Manual Powers:{
+        pow1 : lotto(Gives random item from list of 50 Items),
+        pow2 : heal(Gives Instant Health 4),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Hardcore god
+    }
+} 
+
+Ponk:{
+    Player:(Username)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : red(Gives red blocks),
+        pow2 : oak(Gives 64 Oak Log),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+       Lemon Tree
+    }
+}
+
+Punz:{
+    Player:bsnetXD(_Bsnet_#9808)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : lotto(Gives random item from list of 50 Items),
+        pow2 : woosh(Tp 5 blocks ahead can go through walls),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Money is my Game
+    }
+}
+
+Purpled:{
+    Player:SadBoy_99(SadBoy_99#1231)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : dmgpots(Gives Splash Instant Damage 2 potion),
+        pow2 : prot(Spawns a Obsidian Bubble column for quick escape),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Logical Power1
+    }
+}
+
+Quackity:{
+    Player:AssasinPierce(Levi Forger#4223)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : drugs(Gives string/pufferfish),
+        pow2 : fishs(Gives cod/salmon/pufferfish),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Mexicano
+    }
+}
+
+Ranboo:{
+    Player:TropicTree54685(NoUserNameWasFound#2857)
+    Pasive Powers:{
+        Silk Hands
+    }
+    Manual Powers:{
+        pow1 : perl(Gives 4 perls),
+        pow2 : zooom(Tp to the block looking at max 50 blocks),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Main Character
+    }
+}
+
+Sapnap:{
+    Player:(Username)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : cats(Gives cat spawn egg),
+        pow2 : tport(Gives lead , minecarft and 16 rails),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Pets stealer
+    }
+}
+
+Skeppy:{
+    Player:.Spirit77Gaming(Spirit#5743)
+    Pasive Powers:{
+        naked (give full iron protection when wearing no armor)
+    }
+    Manual Powers:{
+        pow1 : quartz(Gives 64 quartz),
+        pow2 : troll(Gives other player Blindness slowness and plays creeper noises),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Troll
+    }
+}
+
+Slimecicle:{
+    Player:kingsera(kingsera#2392)
+    Pasive Powers:{
+        regenwater(Gives Regeneration 2 under water)
+    }
+    Manual Powers:{
+        pow1 : slime(Gives 64 slimeballs),
+        pow2 : carrots(Gives 16 Golden carrots),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Slime
+    }
+}
+
+Technoblade:{
+    Player:Jamal_Jackson(Papaya#6344)
+    Pasive Powers:{
+        sok (Gives Strength 1 when killed a mob 10s)
+    }
+    Manual Powers:{
+        pow1 : pets(Gives horse/wolf/fox/polarbear/turtle/cow/parrot spawn egg),
+        pow2 : bless(Gives a blessing according to situation),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Anarchy
+    }
+}
+
+TheEret :{
+    Player:(Username)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : feed(Gives saturation),
+        pow2 : gold(Gives 32 gold),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        King
+    }
+}
+
+TommyInnit :{
+    Player:AadityaGaming(seucy boi#1434)
+    Pasive Powers:{
+        sfall(Gives slow falling if 4 blocks under is air)
+    }
+    Manual Powers:{
+        pow1 : feed(Gives saturation),
+        pow2 : oak(Gives 64 Oak Log),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        The blade
+    }
+}
+
+Tubbo:{
+    Player:(Username)
+    Pasive Powers:{
+        Pasive Power1
+    }
+    Manual Powers:{
+        pow1 : bees(Gives bee spawn egg),
+        pow2 : tree(Spawns a tree),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Bees
+    }
+}
+
+Vikkstar123:{
+    Player:Shoyo(SHOYO#2803)
+    Pasive Powers:{
+        swddmg (Increase Damage of Swords by 1)
+    }
+    Manual Powers:{
+        pow1 : pets2(Gives rabbit/chiken spawn egg),
+        pow2 : heal(Gives Instant Health 4),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Boomer
+    }
+}
+
+WilburSoot:{
+    Player:.ScatterPlays,Scatter_Playz(Scatter Playz#3914)
+    Pasive Powers:{
+        invisible when sneaking
+    }
+    Manual Powers:{
+        pow1 : feed(Gives saturation),
+        pow2 : book(Gives writable_book),
+        Pow3 : (empty)
+    }
+    Logical Powers:{
+        Observer
+    }
+}

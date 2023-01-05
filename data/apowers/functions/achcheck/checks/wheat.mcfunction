@@ -1,0 +1,1 @@
+execute as @s[tag=!Farmer,scores={rwheat=1000..}] run function apowers:achcheck/achived/wheat

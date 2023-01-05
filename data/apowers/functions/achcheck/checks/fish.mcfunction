@@ -1,0 +1,1 @@
+execute as @s[tag=!Fisherman,scores={rfishCod=1..,rfishPuf=1..,rfishS=1..,rfishTrop=1..}] run function apowers:achcheck/achived/fish

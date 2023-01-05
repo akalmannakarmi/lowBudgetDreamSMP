@@ -1,0 +1,1 @@
+execute as @s[tag=!DeadInside,scores={rtotem=100..}] run function apowers:achcheck/achived/totem

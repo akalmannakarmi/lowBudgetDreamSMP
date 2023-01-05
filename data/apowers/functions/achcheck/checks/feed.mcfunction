@@ -1,0 +1,1 @@
+execute as @s[tag=!Foody] if predicate apowers:foody run function apowers:achcheck/achived/feed

@@ -1,0 +1,14 @@
+execute as @s[nbt={SelectedItem:{id:"minecraft:wooden_axe"}}] run function apowers:powers/pasive/treefaller/treefaller2
+execute as @s[nbt={SelectedItem:{id:"minecraft:stone_axe"}}] run function apowers:powers/pasive/treefaller/treefaller2
+execute as @s[nbt={SelectedItem:{id:"minecraft:iron_axe"}}] run function apowers:powers/pasive/treefaller/treefaller2
+execute as @s[nbt={SelectedItem:{id:"minecraft:golden_axe"}}] run function apowers:powers/pasive/treefaller/treefaller2
+execute as @s[nbt={SelectedItem:{id:"minecraft:diamond_axe"}}] run function apowers:powers/pasive/treefaller/treefaller2
+execute as @s[nbt={SelectedItem:{id:"minecraft:netherite_axe"}}] run function apowers:powers/pasive/treefaller/treefaller2
+scoreboard players set @s treefallerA 0
+scoreboard players set @s treefallerB 0
+scoreboard players set @s treefallerC 0
+scoreboard players set @s treefallerD 0
+scoreboard players set @s treefallerJ 0
+scoreboard players set @s treefallerO 0
+scoreboard players set @s treefallerS 0
+scoreboard players set @s treefallerW 0

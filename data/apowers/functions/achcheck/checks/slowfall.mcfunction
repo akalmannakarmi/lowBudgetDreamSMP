@@ -1,0 +1,1 @@
+execute as @s[tag=!Fall,scores={rslowfall=50000..}] run function apowers:achcheck/achived/slowfall

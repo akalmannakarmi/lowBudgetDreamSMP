@@ -1,0 +1,84 @@
+scoreboard objectives add Pasive dummy
+
+scoreboard objectives add tntDeath killed_by:player
+scoreboard objectives add datatntDeath dummy
+
+scoreboard objectives add bless_hp health
+
+scoreboard objectives add dCap dummy
+execute unless score cap dCap matches 1.. run scoreboard players set cap dCap 50
+
+scoreboard objectives add naked armor
+
+
+scoreboard objectives add pP_sK dummy
+scoreboard objectives add pP_sK1 killed:bat
+scoreboard objectives add pP_sK2 killed:bee
+scoreboard objectives add pP_sK3 killed:blaze
+scoreboard objectives add pP_sK4 killed:cat
+scoreboard objectives add pP_sK5 killed:cave_spider
+scoreboard objectives add pP_sK6 killed:chicken
+scoreboard objectives add pP_sK7 killed:cod
+scoreboard objectives add pP_sK8 killed:cow
+scoreboard objectives add pP_sK9 killed:creeper
+scoreboard objectives add pP_sK10 killed:dolphin
+scoreboard objectives add pP_sK11 killed:donkey
+scoreboard objectives add pP_sK12 killed:drowned
+scoreboard objectives add pP_sK13 killed:elder_guardian
+scoreboard objectives add pP_sK14 killed:ender_dragon
+scoreboard objectives add pP_sK15 killed:enderman
+scoreboard objectives add pP_sK16 killed:endermite
+scoreboard objectives add pP_sK17 killed:evoker
+scoreboard objectives add pP_sK18 killed:fox
+scoreboard objectives add pP_sK19 killed:ghast
+scoreboard objectives add pP_sK20 killed:giant
+scoreboard objectives add pP_sK21 killed:guardian
+scoreboard objectives add pP_sK22 killed:hoglin
+scoreboard objectives add pP_sK23 killed:horse
+scoreboard objectives add pP_sK24 killed:husk
+scoreboard objectives add pP_sK25 killed:illusioner
+scoreboard objectives add pP_sK26 killed:iron_golem
+scoreboard objectives add pP_sK27 killed:llama
+scoreboard objectives add pP_sK28 killed:magma_cube
+scoreboard objectives add pP_sK29 killed:mooshroom
+scoreboard objectives add pP_sK30 killed:mule
+scoreboard objectives add pP_sK31 killed:ocelot
+scoreboard objectives add pP_sK32 killed:panda
+scoreboard objectives add pP_sK33 killed:parrot
+scoreboard objectives add pP_sK34 killed:phantom
+scoreboard objectives add pP_sK35 killed:pig
+scoreboard objectives add pP_sK36 killed:piglin
+scoreboard objectives add pP_sK37 killed:piglin_brute
+scoreboard objectives add pP_sK38 killed:pillager
+scoreboard objectives add pP_sK39 killed:player
+scoreboard objectives add pP_sK40 killed:polar_bear
+scoreboard objectives add pP_sK41 killed:pufferfish
+scoreboard objectives add pP_sK42 killed:rabbit
+scoreboard objectives add pP_sK43 killed:ravager
+scoreboard objectives add pP_sK44 killed:salmon
+scoreboard objectives add pP_sK45 killed:sheep
+scoreboard objectives add pP_sK46 killed:shulker
+scoreboard objectives add pP_sK47 killed:silverfish
+scoreboard objectives add pP_sK48 killed:skeleton
+scoreboard objectives add pP_sK49 killed:skeleton_horse
+scoreboard objectives add pP_sK50 killed:slime
+scoreboard objectives add pP_sK51 killed:snow_golem
+scoreboard objectives add pP_sK52 killed:spider
+scoreboard objectives add pP_sK53 killed:squid
+scoreboard objectives add pP_sK54 killed:stray
+scoreboard objectives add pP_sK55 killed:trader_llama
+scoreboard objectives add pP_sK56 killed:tropical_fish
+scoreboard objectives add pP_sK57 killed:turtle
+scoreboard objectives add pP_sK58 killed:vex
+scoreboard objectives add pP_sK59 killed:villager
+scoreboard objectives add pP_sK60 killed:vindicator
+scoreboard objectives add pP_sK61 killed:wandering_trader
+scoreboard objectives add pP_sK62 killed:witch
+scoreboard objectives add pP_sK63 killed:wither
+scoreboard objectives add pP_sK64 killed:wither_skeleton
+scoreboard objectives add pP_sK65 killed:wolf
+scoreboard objectives add pP_sK66 killed:zoglin
+scoreboard objectives add pP_sK67 killed:zombie
+scoreboard objectives add pP_sK68 killed:zombie_horse
+scoreboard objectives add pP_sK69 killed:zombie_villager
+scoreboard objectives add pP_sK70 killed:zombified_piglin

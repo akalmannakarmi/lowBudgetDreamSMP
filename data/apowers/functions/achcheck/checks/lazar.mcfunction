@@ -1,0 +1,1 @@
+execute as @s[tag=!Lazar,scores={rlazar=1000..}] run function apowers:achcheck/achived/lazar

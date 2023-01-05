@@ -1,0 +1,16 @@
+execute if score 16 random matches 1 run give @s red_banner 16
+execute if score 16 random matches 2 run give @s red_bed 1
+execute if score 16 random matches 3 run give @s red_carpet 64
+execute if score 16 random matches 4 run give @s red_concrete_powder 64
+execute if score 16 random matches 5 run give @s red_dye 64
+execute if score 16 random matches 6 run give @s red_glazed_terracotta 64
+execute if score 16 random matches 7 run give @s red_mushroom 16
+execute if score 16 random matches 8 run give @s red_mushroom_block 16
+execute if score 16 random matches 9 run give @s red_nether_bricks 64
+execute if score 16 random matches 10 run give @s red_sand 64
+execute if score 16 random matches 11 run give @s red_sandstone 64
+execute if score 16 random matches 12 run give @s red_stained_glass 64
+execute if score 16 random matches 13 run give @s red_terracotta 64
+execute if score 16 random matches 14 run give @s red_wool 64
+execute if score 16 random matches 15 run give @s red_tulip 16
+execute if score 16 random matches 16 run give @s redstone_block 16

@@ -1,0 +1,1 @@
+execute as @s[tag=!TpWut,scores={rzooom=500..}] run function apowers:achcheck/achived/zooom

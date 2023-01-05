@@ -1,0 +1,1 @@
+execute as @s[tag=!Turbo,scores={rspeed=5000000..}] run function apowers:achcheck/achived/speed

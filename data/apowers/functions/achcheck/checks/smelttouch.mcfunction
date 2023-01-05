@@ -1,0 +1,1 @@
+execute as @s[tag=!Smeltor,scores={rsmelttouchM=500..,rsmelttouchS=500..}] run function apowers:achcheck/achived/smelttouch

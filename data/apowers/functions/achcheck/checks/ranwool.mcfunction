@@ -1,0 +1,1 @@
+execute as @s[tag=!IsRainbowGay,scores={rrwBlack=64..,rrwBlue=64..,rrwBrown=64..,rrwCyan=64..,rrwGray=64..,rrwGreen=64..,rrwLightBlue=64..,rrwLightGray=64..,rrwLime=64..,rrwMagenta=64..,rrwOrange=64..,rrwPink=64..,rrwPurple=64..,rrwRed=64..,rrwYellow=64..}] run function apowers:achcheck/achived/ranwool

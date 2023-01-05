@@ -1,0 +1,1 @@
+execute as @s run effect give @s instant_health 1 4 true

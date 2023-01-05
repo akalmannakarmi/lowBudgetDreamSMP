@@ -1,0 +1,1 @@
+execute as @s[tag=!Writer,scores={rbook=200..}] run function apowers:achcheck/achived/book

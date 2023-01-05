@@ -1,0 +1,1 @@
+execute as @s[tag=!BloodThirst,scores={rbloodChicken=100..,rbloodCow=100..,rbloodCreeper=100..,rbloodPig=100..,rbloodSheep=100..,rbloodSkeleton=100..,rbloodSpider=100..,rbloodZombie=100..}] run function apowers:achcheck/achived/blood

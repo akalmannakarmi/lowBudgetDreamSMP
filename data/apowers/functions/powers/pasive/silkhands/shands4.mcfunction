@@ -1,0 +1,4 @@
+execute if block 0 1 0 spawner run give @s spawner
+execute if block 0 1 0 bedrock run give @s bedrock
+execute if block 0 1 0 end_portal_frame run give @s end_portal_frame
+execute unless block 0 1 0 #minecraft:wooden_buttons unless block 0 1 0 #minecraft:wooden_doors unless block 0 1 0 #minecraft:wooden_fences unless block 0 1 0 #minecraft:wooden_pressure_plates unless block 0 1 0 #minecraft:wooden_slabs unless block 0 1 0 #minecraft:wooden_stairs unless block 0 1 0 #minecraft:wooden_trapdoors unless block 0 1 0 #minecraft:logs unless block 0 1 0 #minecraft:planks unless block 0 1 0 #minecraft:wooden_buttons unless block 0 1 0 #minecraft:banners unless block 0 1 0 #minecraft:flowers unless block 0 1 0 #minecraft:sand unless block 0 1 0 #minecraft:signs unless block 0 1 0 #minecraft:wool unless block 0 1 0 dirt at @s run loot spawn ~ ~ ~ mine 0 1 0 netherite_pickaxe{Enchantments:[{id:"minecraft:silk_touch",lvl:1s}]}

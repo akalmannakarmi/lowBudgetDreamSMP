@@ -1,0 +1,1 @@
+execute as @s[tag=!Minions] if predicate apowers:bredall run function apowers:achcheck/achived/pets

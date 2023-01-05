@@ -1,0 +1,149 @@
+#### Advancement Power ####
+## Pasive ##
+AxeMaster       (axeDmg)
+BlockMaster     (silkHands)
+BloodThirst     (blood)
+Fall            (slowFall)
+HolyGrace       (holyAura)
+ItsAnArt        (tntDeath)
+Logger          (treeFaller)
+Smeltor         (smeltTouch)
+SwordMaster     (swordDmg)
+Vain            (vainMiner)
+Vibranium       (uShield)
+WrightBrothers  (flight)
+Naked           (naked)
+
+
+## Manual ##
+# T1
+Apollo          (jump)
+BeeKeeper       (bees)
+BestFriend      (dog)
+Bunny           (carrots)
+Concrete        (conc)
+Farmer          (wheat)
+Feline          (cats)
+FindingNemo     (dolphin)
+Fisherman       (fish)
+Foxy            (fox)
+FutureIsHere    (quartz)
+Mellons         (mellon)
+IsRainbowGay    (ranWool)
+RedstoneMaster  (redstone)
+Slimy           (slime)
+Stripper        (strip)
+Subway          (rails)
+Turbo           (speed)
+TurtleMaster    (scute)
+Writer          (book)
+
+# T2
+DeadInside      (totem)
+Dedication      (obby)
+DemonSlayer     (deadCalm)
+EyesOrBall      (perls)
+Foody           (feed)
+GoldDigger      (gold)
+Lazar           (lazar)
+Lottery         (lotto)
+LuckyDuck       (bless)
+Minions         (pets)
+TnTMaster       (cannon)
+TpWut           (zooom)
+
+
+#### Pasive Powers ####
+(axedmg)    Increase Damage of Axes by 1 {Dream}
+(mermaid)   Gives Conduit, Haste 3 and Regeneration 1 under water{Nihachu}
+(pope)      Most undead mobs within 4 block wither {jschlatt}
+(regenwater)Gives Regeneration 2 under water {Slimecicle}
+(sbelytra)  Gives an Unbreakable Elytra {Ph1LzA}
+(sfall)     Gives slow falling if 4 blocks under is air {TommyInnit}
+(shands)    Silk touch mine anything with hands {Ranboo}
+(snkbsj)    Gives Blindness 1, Speed 4 and Jumpboost 4 when sneaking {ItsFundy}
+(snkbspeed) Gives Blindness 1 and Speed 4 when sneaking {ConnorEatsPants}
+(snkinvs)   Gives Invisibility when sneaking {WilburSoot}
+(snkjb)     Gives Jump boost 2 when sneaking {Antfrost}
+(snkres)    Gives Resistance 2 when sneaking {awesamdude}
+(sok)       Gives Strength 1 when killed a mob 10s {Technoblade}
+(swddmg)    Increase Damage of Swords by 1 {Vikkstar123}
+(tntdeath)  5 TNT spawn when Killed by Player {LazarCodeLazar}
+(ushield)   Gives an Unbreakable Shield {Callahan}
+(naked)     When not wearing armor gives equal armor as iron armor{Skeppy}
+
+
+#### Manual Powers ####
+(bees)      Gives bee spawn egg {Tubbo}
+(bless)     Gives a blessing according to situation {Dream, Technoblade, Nihachu}
+(book)      Gives writable_book {WilburSoot}
+(cannon)    Spawns tnt at the block looking at max 50 blocks {HBomb94}
+(carrots)   Gives 16 Golden carrots {Slimecicle}
+(cats)      Gives cat spawn egg {Antfrost, ItsAlyssa, Sapnap}
+(clutch)    Places water where u will land {Dream}
+(conc)      Gives random concrete powder {KarlJacobs}
+(dmgpots)   Gives Splash Instant Damage 2 potion {Purpled}
+(dogcats)   Gives cat/dog spawn egg {CaptainPuffy}
+(drugs)     Gives string/pufferfish {jschlatt, Quackity}
+(feed)      Gives saturation {TommyInnit, WilburSoot,JackManifoldTV, TheEret,ConnorEatsPants, Nihachu}
+(fishs)     Gives cod/salmon/pufferfish {Antfrost, Quackity}
+(fox)       GIves fox spawn egg {ItsFundy}
+(gold)      Gives 32 gold {TheEret}
+(heal)      Gives Instant Health 4 {Ph1LzA, Nihachu, Vikkstar123}
+(lazar)     Spawns arrows on all 4 direction {LazarCodeLazar}
+(lotto)     Gives random item from list of 50 Items {Ph1LzA, Punz, ItsAlyssa, KarlJacobs}
+(mellon)    Gives 16 mellon {LazarCodeLazar}
+(nwarts)    Gives 32 netherwarts {BadBoyHalo}
+(oak)       Gives 64 Oak Log {TommyInnit, Ponk}
+(obby)      Gives 16 Obsidian {awesamdude}
+(perl)      Gives 4 perls {Ranboo}
+(pets)      Gives horse/wolf/fox/polarbear/turtle/cow/parrot spawn egg {Technoblade}
+(pets2)     Gives rabbit/chiken spawn egg {Vikkstar123}
+(prot)      Spawns a Obsidian Bubble column for quick escape {hannahxxrose,Purpled}
+(quartz)    Gives 64 quartz {Skeppy}
+(ranwool)   Gives a stack of random wool {hannahxxrose}
+(red)       Gives red blocks {Ponk}
+(redstone)  Gives random redstone {awesamdude}
+(regen)     Gives regeneration 2 30s {BadBoyHalo,JackManifoldTV}
+(scute)     Gives scute {GeorgeNotFound}
+(slime)     Gives 64 slimeballs {Slimecicle}
+(speedpot)  Gives a Speed 3 potion {ConnorEatsPants}
+(Spruce)    Gives 64 Spruce Log {Callahan}
+(sstone)    Gives 64 sandStone {FoolishG}
+(tmaster)   Gives Resistance 4 and slowness 2 {GeorgeNotFound}
+(tnt)       Gives 8 tnt {HBomb94}
+(totem)     Gives totem {FoolishG}
+(tport)     Gives lead , minecarft and 16 rails {Sapnap}
+(tree)      Spawns a tree {Tubbo}
+(troll)     Gives other player Blindness slowness and plays creeper noises {ItsFundy, Skeppy}
+(wheat)     Gives 64 wheat {Callahan,jschlatt}
+(woosh)     Tp 5 blocks ahead can go through walls {ConnorEatsPants, Punz}
+(yellow)    Gives 16 Gold_block/yellow_Wool {CaptainPuffy}
+(zooom)     Tp to the block looking at max 50 blocks {Ranboo}
+
+
+#### Logical Powers ####
+Main Character {Ranboo}
+Anarchy {Technoblade}
+King {TheEret}
+The blade {TommyInnit}
+Prison Warden {awesamdude}
+Cat {Antfrost}
+Eggpire {BadBoyHalo}
+One With the Forest {Callahan}
+Sonic {ConnorEatsPants}
+Owner {Dream}
+Women Power {hannahxxrose}
+Hardcore God {Ph1LzA}
+Money is my game {Punz}
+Slime {Slimecicle}
+Observer {WilburSoot}
+Late {GeorgeNotFound}
+Coder {ItsFundy}
+Bald {JackManifoldTV}
+Endangered {Nihachu}
+Lemon Tree {Ponk}
+Mexicano {Quackity}
+King {TheEret}
+Bees {Tubbo}
+Boomer {Vikkstar123}

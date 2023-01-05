@@ -1,0 +1,1 @@
+execute as @s[tag=!Stripper,scores={rstrip=10000..}] run function apowers:achcheck/achived/strip

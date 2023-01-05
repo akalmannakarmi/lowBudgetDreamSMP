@@ -1,0 +1,1 @@
+give @s bee_spawn_egg 1

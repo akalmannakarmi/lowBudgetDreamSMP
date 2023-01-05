@@ -1,0 +1,1 @@
+give @s splash_potion{Potion:"minecraft:strong_harming"} 1

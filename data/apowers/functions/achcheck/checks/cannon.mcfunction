@@ -1,0 +1,1 @@
+execute as @s[tag=!TnTMaster,scores={rcannonCraft=500..,rcannonPlaced=500..}] run function apowers:achcheck/achived/cannon

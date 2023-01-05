@@ -1,0 +1,2 @@
+title @s times 0 10 5
+title @s actionbar [{"text": "Power1 : ","bold": true,"color": "green"},{"score":{"name": "@s","objective": "colPow1"},"color": "red"},{"text": "   "},{"text": "Power2 : ","bold": true,"color": "green"},{"score":{"name": "@s","objective": "colPow2"},"color": "red"},{"text": "   "},{"text": "Power3 : ","bold": true,"color": "green"},{"score":{"name": "@s","objective": "colPow3"},"color": "red"}]

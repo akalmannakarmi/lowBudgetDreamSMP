@@ -1,0 +1,1 @@
+give @s splash_potion{CustomPotionEffects:[{Id:1,Amplifier:3b,Duration:1200}]}

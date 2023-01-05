@@ -1,0 +1,1 @@
+give @s slime_ball 64

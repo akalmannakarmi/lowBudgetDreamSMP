@@ -1,0 +1,1 @@
+execute as @s if predicate powers:sneaking run effect give @s invisibility 2 1 true

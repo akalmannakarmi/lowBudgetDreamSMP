@@ -1,0 +1,1 @@
+execute as @s[tag=!Slimy,scores={rslime=1000..}] run function apowers:achcheck/achived/slime
